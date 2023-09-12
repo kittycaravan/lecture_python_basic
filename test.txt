@@ -13,3 +13,5 @@ yyyyyy
 zzzzz
 
 소스트리
+
+이건 vsc에서 씀
